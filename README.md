@@ -1,2 +1,2 @@
 # Shock'd Landing Page
-Landing Page Design In HTML and CSS.
+Shocke'd Landing Page Design In HTML and CSS.
